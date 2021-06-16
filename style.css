@@ -3,13 +3,9 @@
 html {
   scroll-behavior: auto;
 }
+
 ::-webkit-scrollbar {
   display: none;
-}
-
-.row{
-	display: flex;
-	justify-content: space-around;
 }
 
 body{
@@ -21,16 +17,10 @@ body{
 	scroll-behavior: none;  
 }
 img{
-	border-radius: 50%;
+   	border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     margin: 0 auto;
 }
-
-.container{
-	img 
-}
-
-
